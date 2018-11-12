@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi master, how are you?
+=======
+Hello wrod
+>>>>>>> b0598e254826b40d1b1d808d602eddfb8abf4b1a
